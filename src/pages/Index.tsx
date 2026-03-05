@@ -22,8 +22,8 @@ const Index = () => {
               <Blocks className="text-primary" size={22} />
             </div>
             <div>
-              <h1 className="text-lg font-bold tracking-tight">BlockIIoT-DRL</h1>
-              <p className="text-xs text-muted-foreground">Adaptive Storage Optimization</p>
+              <h1 className="text-lg font-bold tracking-tight">BlockIoT-DRL</h1>
+              <p className="text-xs text-muted-foreground">Adaptive IoT Storage Optimization</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
@@ -47,7 +47,7 @@ const Index = () => {
             <span className="text-gradient"> Optimization</span>
           </h2>
           <p className="text-muted-foreground mt-2 max-w-2xl mx-auto text-sm sm:text-base">
-            Deep Reinforcement Learning for Industrial IoT — reducing on-chain storage by up to 78%
+            Deep Reinforcement Learning for IoT — reducing on-chain storage by up to 78%
             while maintaining data integrity and sub-200ms query latency.
           </p>
         </motion.div>
@@ -57,7 +57,7 @@ const Index = () => {
           <MetricCard title="Storage Saved" value="78.2%" change="+4.1% vs. baseline" icon={HardDrive} delay={0} />
           <MetricCard title="Query Latency" value="142ms" change="-63% optimized" icon={Zap} delay={0.1} />
           <MetricCard title="Throughput" value="2,847" change="tx/sec peak" icon={Activity} delay={0.2} />
-          <MetricCard title="IIoT Devices" value="1,024" change="nodes connected" icon={Cpu} delay={0.3} />
+          <MetricCard title="IoT Devices" value="1,024" change="nodes connected" icon={Cpu} delay={0.3} />
         </div>
 
         {/* Tabs */}
@@ -142,7 +142,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border/50 mt-12 py-6 text-center">
         <p className="text-xs text-muted-foreground">
-          Adaptive Blockchain Storage Optimization for IIoT Using Deep Reinforcement Learning — Research Dashboard
+          Adaptive Blockchain Storage Optimization for IoT Using Deep Reinforcement Learning — Research Dashboard
         </p>
       </footer>
     </div>
