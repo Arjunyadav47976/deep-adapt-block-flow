@@ -23,7 +23,7 @@ const Index = () => {
             </div>
             <div>
               <h1 className="text-lg font-bold tracking-tight">BlockIIoT-DRL</h1>
-              <p className="text-xs text-muted-foreground">Adaptive Storage Optimization</p>
+              <p className="text-xs text-muted-foreground">Adaptive IoT Storage Optimization</p>
             </div>
           </div>
           <div className="flex items-center gap-2">
