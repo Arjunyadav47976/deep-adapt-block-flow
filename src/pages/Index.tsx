@@ -57,7 +57,7 @@ const Index = () => {
           <MetricCard title="Storage Saved" value="78.2%" change="+4.1% vs. baseline" icon={HardDrive} delay={0} />
           <MetricCard title="Query Latency" value="142ms" change="-63% optimized" icon={Zap} delay={0.1} />
           <MetricCard title="Throughput" value="2,847" change="tx/sec peak" icon={Activity} delay={0.2} />
-          <MetricCard title="IIoT Devices" value="1,024" change="nodes connected" icon={Cpu} delay={0.3} />
+          <MetricCard title="IoT Devices" value="1,024" change="nodes connected" icon={Cpu} delay={0.3} />
         </div>
 
         {/* Tabs */}
