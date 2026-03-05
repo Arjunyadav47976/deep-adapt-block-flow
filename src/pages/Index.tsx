@@ -22,7 +22,7 @@ const Index = () => {
               <Blocks className="text-primary" size={22} />
             </div>
             <div>
-              <h1 className="text-lg font-bold tracking-tight">BlockIIoT-DRL</h1>
+              <h1 className="text-lg font-bold tracking-tight">BlockIoT-DRL</h1>
               <p className="text-xs text-muted-foreground">Adaptive IoT Storage Optimization</p>
             </div>
           </div>
