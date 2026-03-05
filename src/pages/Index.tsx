@@ -47,7 +47,7 @@ const Index = () => {
             <span className="text-gradient"> Optimization</span>
           </h2>
           <p className="text-muted-foreground mt-2 max-w-2xl mx-auto text-sm sm:text-base">
-            Deep Reinforcement Learning for Industrial IoT — reducing on-chain storage by up to 78%
+            Deep Reinforcement Learning for IoT — reducing on-chain storage by up to 78%
             while maintaining data integrity and sub-200ms query latency.
           </p>
         </motion.div>
