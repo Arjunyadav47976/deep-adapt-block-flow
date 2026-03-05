@@ -142,7 +142,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border/50 mt-12 py-6 text-center">
         <p className="text-xs text-muted-foreground">
-          Adaptive Blockchain Storage Optimization for IIoT Using Deep Reinforcement Learning — Research Dashboard
+          Adaptive Blockchain Storage Optimization for IoT Using Deep Reinforcement Learning — Research Dashboard
         </p>
       </footer>
     </div>
